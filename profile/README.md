@@ -71,6 +71,5 @@ The goal is to enable **European technological sovereignty** in AI for SatCom an
 
 ## 🛰️ Contact
 **Contributors:**  
-Pi School · RINA Consulting 
-European Space Agency (ARTES Programme)
+Pi School · RINA Consulting · European Space Agency (ARTES Programme)
 
